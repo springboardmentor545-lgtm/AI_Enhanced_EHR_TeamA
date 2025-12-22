@@ -5,8 +5,8 @@
     "age": 47,
     "gender": "Male",
     "clinical_note": "**Clinical Note**\n\n**Patient Information:**  \nAge: 47  \nGender: Male  \n\n**Chief Complaint:**  \nSkin rash for 4 days  \n\n**History of Present Illness (HPI):**  \nThe patient reports a skin rash persisting for 4 days, accompanied by mild discomfort throughout the day. No major complications or associated symptoms reported.  \n\n**Vitals:**  \n- Temperature: 98\u00b0F  \n- Pulse: 81 bpm  \n- Oxygen Saturation: 95%  \n\n**Assessment and Plan:**  \n- Evaluate the rash for potential etiology (e.g., allergic reaction, infection, or dermatologic condition).  \n- Consider topical or systemic treatment based on findings.  \n- Patient advised to monitor for worsening symptoms or additional systemic signs (e.g., fever, swelling).  \n\n**Provider Signature:**  \n_________________________  \nDate: __________________",
-    "icd10_code": "G43.909",
-    "icd10_description": "Migraine, unspecified, not intractable"
+    "icd10_code": "L30.9",
+    "icd10_description": "Dermatitis, unspecified"
   },
   {
     "patient_id": "P-1002",
