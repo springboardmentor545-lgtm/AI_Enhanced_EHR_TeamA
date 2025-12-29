@@ -70,6 +70,7 @@ Milestone_4_Streamlit_App/
 
 ## Running the application
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ---
