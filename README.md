@@ -21,4 +21,4 @@ The project follows an end-to-end pipeline consisting of four major stages, each
 
 ---
 ## LIVE DEMO
-https://ikshamalhotra-team-a-ai-enhanced-ehr-imaging-documentation.streamlit.app/
+https://team-a-ai-enhanced-ehr-imaging-documentation.streamlit.app/
